@@ -1,0 +1,15 @@
+Sequence that the bot will follow ->
+
+•⁠  ⁠Localize, Find the absolute position on the map. 
+•⁠  ⁠Knowing the possible locations of the pillar, search. 
+•⁠  ⁠Find all the pillars and their colours, add them to the map. 
+•⁠  ⁠Find the nearest pillar. 
+•⁠  ⁠Execute accordingly. 
+•⁠  ⁠Turn according to the lines (fix the position if needed). 
+•⁠  ⁠Find and note new pillars to update the map. 
+•⁠  ⁠Note all pillars in lap 1. 
+•⁠  ⁠Identify purple barriers in lap 1. 
+•⁠  ⁠Find best racing line for lap 2. 
+•⁠  ⁠If red pillar at end, find line for opposite direction. 
+•⁠  ⁠Reach purple barriers after lap 3. 
+•⁠  ⁠Parellel park.
