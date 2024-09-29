@@ -1,6 +1,8 @@
-Control software
-====
+## Project Structure
 
-This directory must contain code for control software which is used by the vehicle to participate in the competition and which was developed by the participants.
+- `src/`: Contains the control software and related scripts.
+- `requirements.txt`: Lists the dependencies required for the project.
 
-All artifacts required to resolve dependencies and build the project must be included in this directory as well.
+## Dependencies
+- `RPi.GPIO`
+- `time`
